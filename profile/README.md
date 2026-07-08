@@ -10,4 +10,4 @@
   
 - [Backend](https://github.com/AI-Education-Project/aiedu-backend)
   
-- [AI repo harold](https://github.com/haroldpijpelink/project_dries)
+- [AI](https://github.com/AI-Education-Project/aiedu-ai)
