@@ -1,4 +1,4 @@
-# Sofra
+# Sophra
 
 - **[Github Project](https://github.com/orgs/AI-Education-Project/projects/1)**
   
