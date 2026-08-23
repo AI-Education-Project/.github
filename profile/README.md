@@ -2,9 +2,9 @@
 
 - **[Github Project](https://github.com/orgs/AI-Education-Project/projects/1)**
   
-- [Technische documentatie](https://github.com/AI-Education-Project/sofra-docs)
+- [Technische documentatie](https://github.com/AI-Education-Project/sophra-docs)
 
-- [Backend](https://github.com/AI-Education-Project/sofra-backend)
+- [Backend](https://github.com/AI-Education-Project/sophra-backend)
 
 # aiedu
 
